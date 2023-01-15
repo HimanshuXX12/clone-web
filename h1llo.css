@@ -2,3 +2,13 @@ body{
     color:red;
     background:url(/hello.jpg);
 }
+
+
+.bola{
+    display:flex;
+    color:blue;
+    opacity:1;
+
+
+
+}
